@@ -1,0 +1,17 @@
+h1 {
+    font-family: Impact;
+    color:rgb(0, 133, 38)
+    
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+p.date {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(11, 0, 0);
+}
